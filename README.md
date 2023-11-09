@@ -74,8 +74,11 @@
 <h2 id="usage">Usage</h2>
 
 <h3>Running the Bot</h3>
+<pre>cd bot</pre>
 
-<pre>./sxbot</pre>
+<pre>chmod +x setup</pre>
+<pre>./setup</pre>
+<pre>sxbot</pre>
 
 <h3>Basic Commands</h3>
 
